@@ -71,3 +71,26 @@ No external database is required.
 ## Author
 
 Developed as a Java project using Object-Oriented Programming concepts.
+
+## Application Screenshots
+
+### Admin Login
+![Admin Login](screenshots/login.png)
+
+### Dashboard
+![Dashboard](screenshots/dashboard.png)
+
+### Manage Books
+![Manage Books](screenshots/books.png)
+
+### Manage Students
+![Manage Students](screenshots/students.png)
+
+### Issue Book
+![Issue Book](screenshots/issue-book.png)
+
+### Return Book
+![Return Book](screenshots/return-book.png)
+
+### Transaction History
+![Transaction History](screenshots/transactions.png)
