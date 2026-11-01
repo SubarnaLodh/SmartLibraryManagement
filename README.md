@@ -75,22 +75,22 @@ Developed as a Java project using Object-Oriented Programming concepts.
 ## Application Screenshots
 
 ### Admin Login
-![Admin Login](screenshots/login.png)
+![Admin Login](screenshots/login.png.png)
 
 ### Dashboard
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](screenshots/dashboard.png.png)
 
 ### Manage Books
-![Manage Books](screenshots/books.png)
+![Manage Books](screenshots/books.png.png)
 
 ### Manage Students
-![Manage Students](screenshots/students.png)
+![Manage Students](screenshots/students.png.png)
 
 ### Issue Book
-![Issue Book](screenshots/issue-book.png)
+![Issue Book](screenshots/issue-book.png.png)
 
 ### Return Book
-![Return Book](screenshots/return-book.png)
+![Return Book](screenshots/return-book.png.png)
 
 ### Transaction History
-![Transaction History](screenshots/transactions.png)
+![Transaction History](screenshots/transactions.png.png)
